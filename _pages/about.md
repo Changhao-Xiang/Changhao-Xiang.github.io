@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a master's student at [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/), and a member of [NJU NLP Group](https://nlp.nju.edu.cn/index.html). Before that, I received my B.Sc. degree from Huazhong University of Science and Technology in 2024.
+I am now a master's student at [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/), and a member of [NJU NLP Group](https://nlp.nju.edu.cn/index.html). Before that, I received my B.Eng. degree from Huazhong University of Science and Technology in 2024.
 
 My research interests include **multimodal large language models** and **visual agents**.
 
@@ -55,8 +55,8 @@ Shangyu Xing\*, **Changhao Xiang\***, Yuteng Han, Yifan Yue, Zhen Wu, Xinyu Liu,
 
 # 📖 Education
 
-- *2024.09 - Present*, **M.S.**, Nanjing University.
-- *2020.09 - 2024.06*, **B.S.**, Huazhong University of Science and Technology.
+- *2024.09 - Present*, M.S. at School of Artificial Intelligence, Nanjing University.
+- *2020.09 - 2024.06*, B.E. at School of Artificial Intelligence and Automation, Huazhong University of Science and Technology.
 
 # 💻 Internships
 
