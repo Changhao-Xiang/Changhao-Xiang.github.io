@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student at **Nanjing University**, where I am a member of **NJU NLP**. Before that, I received my bachelor's degree from **Huazhong University of Science and Technology**.
+I am now a master's student at [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/), and a member of [NJU NLP Group](https://nlp.nju.edu.cn/index.html). Before that, I received my B.Sc. degree from Huazhong University of Science and Technology in 2024.
 
-My research interests include **multimodal large language models**, **vision-language learning**, **multimodal agents**, and **visual reasoning**. Please visit my [Google Scholar](https://scholar.google.com/citations?user=VtD37KEAAAAJ&hl=en) and [GitHub](https://github.com/Changhao-Xiang) profiles for the latest updates.
+My research interests include **multimodal large language models** and **visual agents**.
 
 # 🔥 News
 
-- *2026.08*: Released **MultiModal Code-Switching**, a pretraining paradigm for explicit object-level vision-language alignment.
-- *2026.08*: Released **OpenVisTool**, an open framework for synthesizing instructive visual tool-use trajectories.
-- *2026.06*: **GePBench** was accepted to **ICML 2026**.
+- *2026.08*: Released [MultiModal Code-Switching](https://arxiv.org/abs/2608.11167), a modality-alignment paradigm for explicit object-level vision-language alignment.
+- *2026.08*: Released [OpenVisTool](https://arxiv.org/abs/2608.08557), an open framework for synthesizing instructive visual tool-use trajectories.
+- *2026.05*: [GePBench](https://arxiv.org/abs/2412.21036) was accepted to **ICML 2026**.
 
 # 📑 Publications
 
@@ -39,7 +39,7 @@ My research interests include **multimodal large language models**, **vision-lan
 
 ### OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories
 
-**Changhao Xiang**, Shilin Zhang, Zheng Ma, Kanzhi Cheng, Ruize Ma, Yi Feng, Jianbing Zhang, Zhi Wang, Zhen Wu, Xinyu Dai, Lewei Lu
+**Changhao Xiang\***, Shilin Zhang\*, Zheng Ma, Kanzhi Cheng, Ruize Ma, Yi Feng, Jianbing Zhang, Zhi Wang, Zhen Wu, Xinyu Dai, Lewei Lu
 
 *arXiv preprint, 2026*
 
@@ -47,7 +47,7 @@ My research interests include **multimodal large language models**, **vision-lan
 
 ### GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models
 
-Shangyu Xing, **Changhao Xiang**, Yuteng Han, Yifan Yue, Zhen Wu, Xinyu Liu, Zhangtai Wu, Fei Zhao, Xinyu Dai
+Shangyu Xing\*, **Changhao Xiang\***, Yuteng Han, Yifan Yue, Zhen Wu, Xinyu Liu, Zhangtai Wu, Fei Zhao, Xinyu Dai
 
 *International Conference on Machine Learning (ICML), 2026*
 
@@ -55,10 +55,10 @@ Shangyu Xing, **Changhao Xiang**, Yuteng Han, Yifan Yue, Zhen Wu, Xinyu Liu, Zha
 
 # 📖 Education
 
-- *YYYY.MM - Present*, **M.S.**, Nanjing University — NJU NLP.
-- *YYYY.MM - YYYY.MM*, **B.S.**, Huazhong University of Science and Technology.
+- *2024.09 - Present*, **M.S.**, Nanjing University.
+- *2020.09 - 2024.06*, **B.S.**, Huazhong University of Science and Technology.
 
 # 💻 Internships
 
-- *YYYY.MM - YYYY.MM*, Research Intern, **ByteDance**.
-- *YYYY.MM - YYYY.MM*, Research Intern, **SenseTime Research**.
+- *2026.06 - Present*, **ByteDance**.
+- *2025.11 - 2026.05*, **SenseTime Research**.
