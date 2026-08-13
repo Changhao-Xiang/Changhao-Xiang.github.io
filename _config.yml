@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changhao Xiang (向长昊)"
+  name             : "Changhao Xiang"
+  name_zh          : "向长昊"
   avatar           : "images/avatar.jpg"
   bio              : "M.S. Student at Nanjing University"
   location         : "Nanjing, China"
