@@ -49,7 +49,7 @@ My research interests include **multimodal large language models** and **visual 
 
 Shangyu Xing\*, **Changhao Xiang\***, Yuteng Han, Yifan Yue, Zhen Wu, Xinyu Liu, Zhangtai Wu, Fei Zhao, Xinyu Dai
 
-*International Conference on Machine Learning (ICML), 2026*
+*ICML 2026*
 
 [[Paper]](https://arxiv.org/abs/2412.21036) [[Code]](https://github.com/Changhao-Xiang/GePBench)
 
