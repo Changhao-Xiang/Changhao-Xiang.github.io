@@ -29,14 +29,6 @@ My research interests include **multimodal large language models** and **visual 
 
 # 📑 Publications
 
-### MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment
-
-**Changhao Xiang**, Shangyu Xing, Zhen Wu, Jianbing Zhang, Xinyu Dai
-
-*arXiv preprint, 2026*
-
-[[Paper]](https://arxiv.org/abs/2608.11167) [[Code]](https://github.com/Changhao-Xiang/MM-CodeSwitch)
-
 ### OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories
 
 **Changhao Xiang\***, Shilin Zhang\*, Zheng Ma, Kanzhi Cheng, Ruize Ma, Yi Feng, Jianbing Zhang, Zhi Wang, Zhen Wu, Xinyu Dai, Lewei Lu
@@ -44,6 +36,14 @@ My research interests include **multimodal large language models** and **visual 
 *arXiv preprint, 2026*
 
 [[Paper]](https://arxiv.org/abs/2608.08557) [[Code]](https://github.com/Changhao-Xiang/OpenVisTool)
+
+### MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment
+
+**Changhao Xiang**, Shangyu Xing, Zhen Wu, Jianbing Zhang, Xinyu Dai
+
+*EMNLP 2026*
+
+[[Paper]](https://arxiv.org/abs/2608.11167) [[Code]](https://github.com/Changhao-Xiang/MM-CodeSwitch)
 
 ### GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models
 
