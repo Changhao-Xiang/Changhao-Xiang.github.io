@@ -23,7 +23,7 @@ My research interests include **multimodal large language models** and **visual 
 
 # 🔥 News
 
-- *2026.08*: Released [MultiModal Code-Switching](https://arxiv.org/abs/2608.11167), a modality-alignment paradigm for explicit object-level vision-language alignment.
+- *2026.08*: [MultiModal Code-Switching](https://arxiv.org/abs/2608.11167) was accepted to **EMNLP 2026 Main Conference**.
 - *2026.08*: Released [OpenVisTool](https://arxiv.org/abs/2608.08557), an open framework for synthesizing instructive visual tool-use trajectories.
 - *2026.05*: [GePBench](https://arxiv.org/abs/2412.21036) was accepted to **ICML 2026**.
 
